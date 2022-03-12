@@ -1,0 +1,3 @@
+C:\Users\Administrator\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
